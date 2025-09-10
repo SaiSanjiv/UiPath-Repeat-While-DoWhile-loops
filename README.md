@@ -31,8 +31,13 @@ This repository contains a simple **UiPath workflow** that demonstrates the use 
 - Logs: `Repeat: <iteration>`
 
 **Example Output:**  
+### REPEAT
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8461d81b-07ba-49b5-913d-1b22b3806e4e" />
+
+### DO-WHILE
 <img width="1911" height="1139" alt="image" src="https://github.com/user-attachments/assets/70ef3971-0398-4b49-a16b-17865dace648" />
+
+### WHILE
 <img width="1919" height="1134" alt="image" src="https://github.com/user-attachments/assets/1482525c-bf48-4e1e-9a2d-e19e3f25ed24" />
 
 ## RESULT: 
