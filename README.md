@@ -32,5 +32,5 @@ This repository contains a simple **UiPath workflow** that demonstrates the use 
 
 **Example Output:**  
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8461d81b-07ba-49b5-913d-1b22b3806e4e" />
+<img width="1911" height="1139" alt="image" src="https://github.com/user-attachments/assets/70ef3971-0398-4b49-a16b-17865dace648" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-05 214941" src="https://github.com/user-attachments/assets/40a19461-3f2f-45d8-be1f-b42cdd30a3cf" />
